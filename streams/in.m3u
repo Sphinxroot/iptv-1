@@ -1176,45 +1176,45 @@ https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8
 #EXTINF:-1 tvg-id="HebronTV.in@SD",Hebron TV (1080p)
 https://account20.livebox.co.in/charleshls/live.m3u8
 #EXTINF:-1 tvg-id="FlowersTV.in@SD",Flowers TV (576p)
-http://103.154.3.101:5001/live/634.m3u8
+http://103.72.101.252:8080/live/634.m3u8
 #EXTINF:-1 tvg-id="Zing.in@SD",Zing! (576p)
-http://103.154.3.101:5001/live/585.m3u8
+http://103.72.101.252:8080/live/585.m3u8
 #EXTINF:-1 tvg-id="NickJr.in@SD",Nick Jr. (576p)
-http://103.154.3.101:5001/live/544.m3u8
+http://103.72.101.252:8080/live/544.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.in@SD",Nickelodeon (576p)
-http://103.154.3.101:5001/live/545.m3u8
+http://103.72.101.252:8080/live/545.m3u8
 #EXTINF:-1 tvg-id="RajPariwar.in@SD",Raj Pariwar (576p)
-http://103.154.3.101:5001/live/533.m3u8
+http://103.72.101.252:8080/live/533.m3u8
 #EXTINF:-1 tvg-id="ZeeAction.in@SD",Zee Action (576p)
-http://103.154.3.101:5001/live/488.m3u8
+http://103.72.101.252:8080/live/488.m3u8
 #EXTINF:-1 tvg-id="AndTV.in@HD",&TV HD (1080p)
-http://103.154.3.101:5001/live/472.m3u8
+http://103.72.101.252:8080/live/472.m3u8
 #EXTINF:-1 tvg-id="ZeeMarathi.in@SD",Zee Marathi (576p)
-http://103.154.3.101:5001/live/445.m3u8
+http://103.72.101.252:8080/live/445.m3u8
 #EXTINF:-1 tvg-id="JayaMax.in@SD",Jaya Max (576p)
-http://103.154.3.101:5001/live/420.m3u8
+http://103.72.101.252:8080/live/420.m3u8
 #EXTINF:-1 tvg-id="JayaTV.in@HD",Jaya TV (1080p)
-http://103.154.3.101:5001/live/419.m3u8
+http://103.72.101.252:8080/live/419.m3u8
 #EXTINF:-1 tvg-id="JMovie.in@SD",J Movie (576p)
-http://103.154.3.101:5001/live/417.m3u8
+http://103.72.101.252:8080/live/417.m3u8
 #EXTINF:-1 tvg-id="ZeeYuva.in@SD",Zee Yuva (576p)
-http://103.154.3.101:5001/live/414.m3u8
+http://103.72.101.252:8080/live/414.m3u8
 #EXTINF:-1 tvg-id="ZeeCinemalu.in@SD",Zee Cinemalu (576p)
-http://103.154.3.101:5001/live/413.m3u8
+http://103.72.101.252:8080/live/413.m3u8
 #EXTINF:-1 tvg-id="EVidya4.in@SD",E-Vidya 4 (576p)
-http://103.154.3.101:5001/live/406.m3u8
+http://103.72.101.252:8080/live/406.m3u8
 #EXTINF:-1 tvg-id="EVidya3.in@SD",E-Vidya 3 (576p)
-http://103.154.3.101:5001/live/405.m3u8
+http://103.72.101.252:8080/live/405.m3u8
 #EXTINF:-1 tvg-id="EVidya7.in@SD",E-Vidya 7 (576p)
-http://103.154.3.101:5001/live/404.m3u8
+http://103.72.101.252:8080/live/404.m3u8
 #EXTINF:-1 tvg-id="SwayamPrabha20.in@SD",Swayam Prabha 20 (576p)
-http://103.154.3.101:5001/live/403.m3u8
+http://103.72.101.252:8080/live/403.m3u8
 #EXTINF:-1 tvg-id="EVidya2.in@SD",E-Vidya 2 (576p)
-http://103.154.3.101:5001/live/402.m3u8
+http://103.72.101.252:8080/live/402.m3u8
 #EXTINF:-1 tvg-id="SwayamPrabha19.in@SD",Swayam Prabha 19 (576p)
-http://103.154.3.101:5001/live/401.m3u8
+http://103.72.101.252:8080/live/401.m3u8
 #EXTINF:-1 tvg-id="EVidya1.in@SD",E-Vidya 1 (576p)
-http://103.154.3.101:5001/live/400.m3u8
+http://103.72.101.252:8080/live/400.m3u8
 #EXTINF:-1 tvg-id="StarSuvarna.in@HD",Star Suvarna HD (1080p)
 #EXTVLCOPT:http-referrer=https://tulnit.com
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/suvarnatv_live_https/index.m3u8
@@ -1225,26 +1225,26 @@ https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae7
 #EXTVLCOPT:http-referrer=https://tulnit.com
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starjalsha_live_https/index.m3u8
 #EXTINF:-1 tvg-id="ColorsRishteyAsia.in@SD",Colors Rishtey Asia (1080p)
-http://103.154.3.101:5001/live/279.m3u8
+http://103.72.101.252:8080/live/279.m3u8
 #EXTINF:-1 tvg-id="MTV.in@SD",MTV (1080p)
-http://103.154.3.101:5001/live/248.m3u8
+http://103.72.101.252:8080/live/248.m3u8
 #EXTINF:-1 tvg-id="ColorsGujarati.in@SD",Colors Gujarati (1080p)
-http://103.154.3.101:5001/live/196.m3u8
+http://103.72.101.252:8080/live/196.m3u8
 #EXTINF:-1 tvg-id="Andpictures.in@HD",&pictures HD (1080p)
-http://103.154.3.101:5001/live/185.m3u8
+http://103.72.101.252:8080/live/185.m3u8
 #EXTINF:-1 tvg-id="ZeeTV.in@HD",Zee TV HD (1080p)
-http://103.154.3.101:5001/live/167.m3u8
+http://103.72.101.252:8080/live/167.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in@HD",Zee Cinema HD (1080p)
-http://103.154.3.101:5001/live/165.m3u8
+http://103.72.101.252:8080/live/165.m3u8
 #EXTINF:-1 tvg-id="Colors.in@HD",Colors HD (1080p)
-http://103.154.3.101:5001/live/144.m3u8
+http://103.72.101.252:8080/live/144.m3u8
 #EXTINF:-1 tvg-id="NTVTelugu.in@SD",NTV Telugu (1080p)
 https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
 #EXTINF:-1 tvg-id="SonyYay.in@SD",Sony Yay! (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY%20YAY.m3u8
 #EXTINF:-1 tvg-id="SonyMarathi.in@SD",Sony Marathi (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY%20MARATHI.m3u8
-#EXTINF:-1 tvg-id="SonyBBCEarth.in@HD",Sony BBC Earth HD (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="SonyBBCEarth.in@HD",Sony BBC Earth HD English (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY%20BBC%20EARTH%20HD.m3u8
 #EXTINF:-1 tvg-id="SonyAath.in@SD",Sony Aath (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY%20AATH.m3u8
@@ -1295,150 +1295,150 @@ http://103.253.18.58:8000/play/a00m
 #EXTINF:-1 tvg-id="StarSports1Hindi.in@SD",Star Sports 1 Hindi (576p)
 http://103.253.18.58:8000/play/a03o
 #EXTINF:-1 tvg-id="EpicBhojpuri.in@SD",Epic Bhojpuri (576p)
-http://103.154.3.101:5001/live/3384.m3u8
+http://103.72.101.252:8080/live/3384.m3u8
 #EXTINF:-1 tvg-id="ShemarooFilmiGaane.in@HD",Shemaroo Filmi Gaane (1080p)
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeZest.in@HD",Zee Zest HD (1080p)
-http://103.154.3.101:5001/live/2757.m3u8
+http://103.72.101.252:8080/live/2757.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD",Colors Cineplex Bollywood (576p)
-http://103.154.3.101:5001/live/1763.m3u8
+http://103.72.101.252:8080/live/1763.m3u8
 #EXTINF:-1 tvg-id="ZeeClassic.in@SD",Zee Classic (576p)
-http://103.154.3.101:5001/live/1691.m3u8
+http://103.72.101.252:8080/live/1691.m3u8
 #EXTINF:-1 tvg-id="ColorsBanglaCinema.in@SD",Colors Bangla Cinema (576p)
-http://103.154.3.101:5001/live/1657.m3u8
+http://103.72.101.252:8080/live/1657.m3u8
 #EXTINF:-1 tvg-id="ColorsKannadaCinema.in@SD",Colors Kannada Cinema (576p)
-http://103.154.3.101:5001/live/1632.m3u8
+http://103.72.101.252:8080/live/1632.m3u8
 #EXTINF:-1 tvg-id="EVidya12.in@SD",E-Vidya 12 (576p)
-http://103.154.3.101:5001/live/1532.m3u8
+http://103.72.101.252:8080/live/1532.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in@HD",Colors Cineplex HD (1080p)
-http://103.154.3.101:5001/live/1477.m3u8
+http://103.72.101.252:8080/live/1477.m3u8
 #EXTINF:-1 tvg-id="HistoryTV18.in@SD",History TV18 (576p)
-http://103.154.3.101:5001/live/1471.m3u8
+http://103.72.101.252:8080/live/1471.m3u8
 #EXTINF:-1 tvg-id="JanapriyamTV.in@SD",Janapriyam TV (480p)
-http://103.154.3.101:5001/live/1455.m3u8
+http://103.72.101.252:8080/live/1455.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in@SD",Colors Cineplex Superhits (576p)
-http://103.154.3.101:5001/live/1450.m3u8
+http://103.72.101.252:8080/live/1450.m3u8
 #EXTINF:-1 tvg-id="SongdewTV.in@SD",Songdew TV (576p)
-http://103.154.3.101:5001/live/1411.m3u8
+http://103.72.101.252:8080/live/1411.m3u8
 #EXTINF:-1 tvg-id="EVidya11.in@SD",E-Vidya 11 (576p)
-http://103.154.3.101:5001/live/1410.m3u8
+http://103.72.101.252:8080/live/1410.m3u8
 #EXTINF:-1 tvg-id="ColorsKannada.in@SD",Colors Kannada (576p)
-http://103.154.3.101:5001/live/1370.m3u8
+http://103.72.101.252:8080/live/1370.m3u8
 #EXTINF:-1 tvg-id="ColorsBangla.in@SD",Colors Bangla (576p)
-http://103.154.3.101:5001/live/1369.m3u8
+http://103.72.101.252:8080/live/1369.m3u8
 #EXTINF:-1 tvg-id="Colors.in@SD",Colors (576p)
-http://103.154.3.101:5001/live/1368.m3u8
+http://103.72.101.252:8080/live/1368.m3u8
 #EXTINF:-1 tvg-id="ZeeMarathi.in@HD",Zee Marathi HD (1080p)
-http://103.154.3.101:5001/live/1360.m3u8
+http://103.72.101.252:8080/live/1360.m3u8
 #EXTINF:-1 tvg-id="ZeeTalkies.in@HD",Zee Talkies HD (1080p)
-http://103.154.3.101:5001/live/1358.m3u8
+http://103.72.101.252:8080/live/1358.m3u8
 #EXTINF:-1 tvg-id="ColorsInfinity.in@HD",Colors Infinity HD (1080p)
-http://103.154.3.101:5001/live/1158.m3u8
+http://103.72.101.252:8080/live/1158.m3u8
 #EXTINF:-1 tvg-id="ColorsMarathi.in@SD",Colors Marathi (576p)
-http://103.154.3.101:5001/live/1326.m3u8
+http://103.72.101.252:8080/live/1326.m3u8
 #EXTINF:-1 tvg-id="ColorsInfinity.in@SD",Colors Infinity (576p)
-http://103.154.3.101:5001/live/1325.m3u8
+http://103.72.101.252:8080/live/1325.m3u8
 #EXTINF:-1 tvg-id="ColorsGujaratiCinema.in@SD",Colors Gujarati Cinema (360p)
-http://103.154.3.101:5001/live/1324.m3u8
+http://103.72.101.252:8080/live/1324.m3u8
 #EXTINF:-1 tvg-id="Andflix.in@HD",&flix HD (1080p)
-http://103.154.3.101:5001/live/1322.m3u8
+http://103.72.101.252:8080/live/1322.m3u8
 #EXTINF:-1 tvg-id="ZeeCafe.in@HD",Zee Cafe HD (1080p)
-http://103.154.3.101:5001/live/1319.m3u8
+http://103.72.101.252:8080/live/1319.m3u8
 #EXTINF:-1 tvg-id="DigiShala.in@SD",Digi Shala (576p)
-http://103.154.3.101:5001/live/1227.m3u8
+http://103.72.101.252:8080/live/1227.m3u8
 #EXTINF:-1 tvg-id="NickHDPlus.in@HD",Nick HD+ (1080p)
-http://103.154.3.101:5001/live/1226.m3u8
+http://103.72.101.252:8080/live/1226.m3u8
 #EXTINF:-1 tvg-id="KalaignarTV.in@SD",Kalaignar TV (576p)
-http://103.154.3.101:5001/live/1209.m3u8
-#EXTINF:-1 tvg-id="AsianetMovies.in@SD",Asianet Movies (1080p)
+http://103.72.101.252:8080/live/1209.m3u8
+#EXTINF:-1 tvg-id="AsianetMovies.in@SD",Asianet Movies (576p)
 #EXTVLCOPT:http-referrer=https://tulnit.com
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
 #EXTINF:-1 tvg-id="MTV.in@HD",MTV HD (1080p)
-http://103.154.3.101:5001/live/1145.m3u8
+http://103.72.101.252:8080/live/1145.m3u8
 #EXTINF:-1 tvg-id="VandeGujarat16.in@SD",Vande Gujarat 16 (576p)
-http://103.154.3.101:5001/live/1094.m3u8
+http://103.72.101.252:8080/live/1094.m3u8
 #EXTINF:-1 tvg-id="VandeGujarat15.in@SD",Vande Gujarat 15 (576p)
-http://103.154.3.101:5001/live/1093.m3u8
+http://103.72.101.252:8080/live/1093.m3u8
 #EXTINF:-1 tvg-id="VandeGujarat14.in@SD",Vande Gujarat 14 (576p)
-http://103.154.3.101:5001/live/1092.m3u8
+http://103.72.101.252:8080/live/1092.m3u8
 #EXTINF:-1 tvg-id="VandeGujarat13.in@SD",Vande Gujarat 13 (576p)
-http://103.154.3.101:5001/live/1091.m3u8
+http://103.72.101.252:8080/live/1091.m3u8
 #EXTINF:-1 tvg-id="VandeGujarat12.in@SD",Vande Gujarat 12 (576p)
-http://103.154.3.101:5001/live/1090.m3u8
+http://103.72.101.252:8080/live/1090.m3u8
 #EXTINF:-1 tvg-id="VandeGujarat11.in@SD",Vande Gujarat 11 (576p)
-http://103.154.3.101:5001/live/1089.m3u8
+http://103.72.101.252:8080/live/1089.m3u8
 #EXTINF:-1 tvg-id="VandeGujarat10.in@SD",Vande Gujarat 10 (576p)
-http://103.154.3.101:5001/live/1088.m3u8
+http://103.72.101.252:8080/live/1088.m3u8
 #EXTINF:-1 tvg-id="VandeGujarat9.in@SD",Vande Gujarat 9 (576p)
-http://103.154.3.101:5001/live/1087.m3u8
+http://103.72.101.252:8080/live/1087.m3u8
 #EXTINF:-1 tvg-id="VandeGujarat8.in@SD",Vande Gujarat 8 (576p)
-http://103.154.3.101:5001/live/1086.m3u8
+http://103.72.101.252:8080/live/1086.m3u8
 #EXTINF:-1 tvg-id="VandeGujarat7.in@SD",Vande Gujarat 7 (576p)
-http://103.154.3.101:5001/live/1085.m3u8
+http://103.72.101.252:8080/live/1085.m3u8
 #EXTINF:-1 tvg-id="VandeGujarat6.in@SD",Vande Gujarat 6 (576p)
-http://103.154.3.101:5001/live/1084.m3u8
+http://103.72.101.252:8080/live/1084.m3u8
 #EXTINF:-1 tvg-id="VandeGujarat5.in@SD",Vande Gujarat 5 (576p)
-http://103.154.3.101:5001/live/1083.m3u8
+http://103.72.101.252:8080/live/1083.m3u8
 #EXTINF:-1 tvg-id="VandeGujarat3.in@SD",Vande Gujarat 3 (576p)
-http://103.154.3.101:5001/live/1082.m3u8
+http://103.72.101.252:8080/live/1082.m3u8
 #EXTINF:-1 tvg-id="VandeGujarat4.in@SD",Vande Gujarat 4 (576p)
-http://103.154.3.101:5001/live/1071.m3u8
+http://103.72.101.252:8080/live/1071.m3u8
 #EXTINF:-1 tvg-id="VandeGujarat2.in@SD",Vande Gujarat 2 (576p)
-http://103.154.3.101:5001/live/1070.m3u8
+http://103.72.101.252:8080/live/1070.m3u8
 #EXTINF:-1 tvg-id="VandeGujarat1.in@SD",Vande Gujarat 1 (576p)
-http://103.154.3.101:5001/live/1069.m3u8
+http://103.72.101.252:8080/live/1069.m3u8
 #EXTINF:-1 tvg-id="SwayamPrabha18.in@SD",Swayam Prabha 18 (576p)
-http://103.154.3.101:5001/live/999.m3u8
+http://103.72.101.252:8080/live/999.m3u8
 #EXTINF:-1 tvg-id="SwayamPrabha22.in@SD",Swayam Prabha 22 (576p)
-http://103.154.3.101:5001/live/998.m3u8
+http://103.72.101.252:8080/live/998.m3u8
 #EXTINF:-1 tvg-id="SwayamPrabha21.in@SD",Swayam Prabha 21 (576p)
-http://103.154.3.101:5001/live/997.m3u8
+http://103.72.101.252:8080/live/997.m3u8
 #EXTINF:-1 tvg-id="SwayamPrabha17.in@SD",Swayam Prabha 17 (576p)
-http://103.154.3.101:5001/live/996.m3u8
+http://103.72.101.252:8080/live/996.m3u8
 #EXTINF:-1 tvg-id="SwayamPrabha15.in@SD",Swayam Prabha 15 (576p)
-http://103.154.3.101:5001/live/995.m3u8
+http://103.72.101.252:8080/live/995.m3u8
 #EXTINF:-1 tvg-id="SwayamPrabha16.in@SD",Swayam Prabha 16 (576p)
-http://103.154.3.101:5001/live/994.m3u8
+http://103.72.101.252:8080/live/994.m3u8
 #EXTINF:-1 tvg-id="SwayamPrabha14.in@SD",Swayam Prabha 14 (576p)
-http://103.154.3.101:5001/live/993.m3u8
+http://103.72.101.252:8080/live/993.m3u8
 #EXTINF:-1 tvg-id="SwayamPrabha13.in@SD",Swayam Prabha 13 (576p)
-http://103.154.3.101:5001/live/992.m3u8
+http://103.72.101.252:8080/live/992.m3u8
 #EXTINF:-1 tvg-id="SwayamPrabha12.in@SD",Swayam Prabha 12 (576p)
-http://103.154.3.101:5001/live/991.m3u8
+http://103.72.101.252:8080/live/991.m3u8
 #EXTINF:-1 tvg-id="SwayamPrabha11.in@SD",Swayam Prabha 11 (576p)
-http://103.154.3.101:5001/live/990.m3u8
+http://103.72.101.252:8080/live/990.m3u8
 #EXTINF:-1 tvg-id="SwayamPrabha10.in@SD",Swayam Prabha 10 (576p)
-http://103.154.3.101:5001/live/989.m3u8
+http://103.72.101.252:8080/live/989.m3u8
 #EXTINF:-1 tvg-id="SwayamPrabha9.in@SD",Swayam Prabha 9 (576p)
-http://103.154.3.101:5001/live/988.m3u8
+http://103.72.101.252:8080/live/988.m3u8
 #EXTINF:-1 tvg-id="SwayamPrabha6.in@SD",Swayam Prabha 6 (576p)
-http://103.154.3.101:5001/live/987.m3u8
+http://103.72.101.252:8080/live/987.m3u8
 #EXTINF:-1 tvg-id="SwayamPrabha5.in@SD",Swayam Prabha 5 (576p)
-http://103.154.3.101:5001/live/986.m3u8
+http://103.72.101.252:8080/live/986.m3u8
 #EXTINF:-1 tvg-id="SwayamPrabha7.in@SD",Swayam Prabha 7 (576p)
-http://103.154.3.101:5001/live/985.m3u8
+http://103.72.101.252:8080/live/985.m3u8
 #EXTINF:-1 tvg-id="SwayamPrabha4.in@SD",Swayam Prabha 4 (576p)
-http://103.154.3.101:5001/live/984.m3u8
+http://103.72.101.252:8080/live/984.m3u8
 #EXTINF:-1 tvg-id="SwayamPrabha8.in@SD",Swayam Prabha 8 (576p)
-http://103.154.3.101:5001/live/983.m3u8
+http://103.72.101.252:8080/live/983.m3u8
 #EXTINF:-1 tvg-id="SwayamPrabha3.in@SD",Swayam Prabha 3 (576p)
-http://103.154.3.101:5001/live/982.m3u8
+http://103.72.101.252:8080/live/982.m3u8
 #EXTINF:-1 tvg-id="SwayamPrabha1.in@SD",Swayam Prabha 1 (576p)
-http://103.154.3.101:5001/live/980.m3u8
+http://103.72.101.252:8080/live/980.m3u8
 #EXTINF:-1 tvg-id="SarvDharamSangam.in@SD",Sarv Dharam Sangam (576p)
-http://103.154.3.101:5001/live/972.m3u8
-#EXTINF:-1 tvg-id="HistoryTV18.in@HD",History TV18 HD (1080p)
-http://103.154.3.101:5001/live/579.m3u8
+http://103.72.101.252:8080/live/972.m3u8
+#EXTINF:-1 tvg-id="HistoryTV18.in@HD",History TV18 HD Tamil (1080p)
+http://103.72.101.252:8080/live/579.m3u8
 #EXTINF:-1 tvg-id="EVidya10.in@SD",E-Vidya 10 (576p)
-http://103.154.3.101:5001/live/411.m3u8
+http://103.72.101.252:8080/live/411.m3u8
 #EXTINF:-1 tvg-id="EVidya9.in@SD",E-Vidya 9 (576p)
-http://103.154.3.101:5001/live/410.m3u8
+http://103.72.101.252:8080/live/410.m3u8
 #EXTINF:-1 tvg-id="EVidya8.in@SD",E-Vidya 8 (576p)
-http://103.154.3.101:5001/live/409.m3u8
+http://103.72.101.252:8080/live/409.m3u8
 #EXTINF:-1 tvg-id="EVidya6.in@SD",E-Vidya 6 (576p)
-http://103.154.3.101:5001/live/408.m3u8
+http://103.72.101.252:8080/live/408.m3u8
 #EXTINF:-1 tvg-id="EVidya5.in@SD",E-Vidya 5 (576p)
-http://103.154.3.101:5001/live/407.m3u8
+http://103.72.101.252:8080/live/407.m3u8
 #EXTINF:-1 tvg-id="Asianet.in@SD",Asianet (576p)
 #EXTVLCOPT:http-referrer=https://tulnit.com
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
@@ -1446,44 +1446,44 @@ https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae7
 #EXTVLCOPT:http-referrer=https://tulnit.com
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starmaa1_live_https/index.m3u8
 #EXTINF:-1 tvg-id="TimesNowWorld.in@SD",Times Now World (1080p)
-http://103.154.3.101:5001/live/876.m3u8
+http://103.72.101.252:8080/live/876.m3u8
 #EXTINF:-1 tvg-id="Sonic.in@SD",Sonic (576p)
-http://103.154.3.101:5001/live/815.m3u8
+http://103.72.101.252:8080/live/815.m3u8
 #EXTINF:-1 tvg-id="TravelxpTamil.in@SD",Travelxp Tamil (576p)
-http://103.154.3.101:5001/live/814.m3u8
+http://103.72.101.252:8080/live/814.m3u8
 #EXTINF:-1 tvg-id="ColorsSuper.in@SD",Colors Super (1080p)
-http://103.154.3.101:5001/live/785.m3u8
+http://103.72.101.252:8080/live/785.m3u8
 #EXTINF:-1 tvg-id="RajNews.in@SD",Raj News (576p)
-http://103.154.3.101:5001/live/767.m3u8
+http://103.72.101.252:8080/live/767.m3u8
 #EXTINF:-1 tvg-id="StarMaaMovies.in@HD",Star Maa Movies HD (1080p)
 #EXTVLCOPT:http-referrer=https://tulnit.com
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maamovies_live_https/index.m3u8
 #EXTINF:-1 tvg-id="ColorsKannada.in@HD",Colors Kannada HD (1080p)
-http://103.154.3.101:5001/live/757.m3u8
+http://103.72.101.252:8080/live/757.m3u8
 #EXTINF:-1 tvg-id="ColorsBangla.in@HD",Colors Bangla HD (1080p)
-http://103.154.3.101:5001/live/756.m3u8
+http://103.72.101.252:8080/live/756.m3u8
 #EXTINF:-1 tvg-id="ColorsMarathi.in@HD",Colors Marathi HD (1080p)
-http://103.154.3.101:5001/live/755.m3u8
+http://103.72.101.252:8080/live/755.m3u8
 #EXTINF:-1 tvg-id="RajMusixTamil.in@SD",Raj Musix Tamil (576p)
-http://103.154.3.101:5001/live/748.m3u8
+http://103.72.101.252:8080/live/748.m3u8
 #EXTINF:-1 tvg-id="ZeeSarthak.in@SD",Zee Sarthak (576p)
-http://103.154.3.101:5001/live/722.m3u8
+http://103.72.101.252:8080/live/722.m3u8
 #EXTINF:-1 tvg-id="RajTV.in@SD",Raj TV (576p)
-http://103.154.3.101:5001/live/707.m3u8
+http://103.72.101.252:8080/live/707.m3u8
 #EXTINF:-1 tvg-id="RajDigitalPlus.in@SD",Raj Digital Plus (576p)
-http://103.154.3.101:5001/live/683.m3u8
+http://103.72.101.252:8080/live/683.m3u8
 #EXTINF:-1 tvg-id="ZeeTamil.in@SD",Zee Tamil (576p)
-http://103.154.3.101:5001/live/628.m3u8
+http://103.72.101.252:8080/live/628.m3u8
 #EXTINF:-1 tvg-id="ZeeBangla.in@SD",Zee Bangla (576p)
-http://103.154.3.101:5001/live/625.m3u8
+http://103.72.101.252:8080/live/625.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in@SD",Colors Cineplex (576p)
-http://103.154.3.101:5001/live/482.m3u8
+http://103.72.101.252:8080/live/482.m3u8
 #EXTINF:-1 tvg-id="ZeeTamilNews.in@SD",Zee Tamil News (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
 #EXTINF:-1 tvg-id="ZeeThirai.in@HD",Zee Thirai HD (1080p)
-http://103.154.3.101:5001/live/3051.m3u8
+http://103.72.101.252:8080/live/3051.m3u8
 #EXTINF:-1 tvg-id="ColorsTamil.in@HD",Colors Tamil HD (1080p)
-http://103.154.3.101:5001/live/429.m3u8
+http://103.72.101.252:8080/live/429.m3u8
 #EXTINF:-1 tvg-id="SonyPal.in@SD",Sony Pal (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY%20PAL.m3u8
 #EXTINF:-1 tvg-id="SonySAB.in@HD",Sony SAB HD (1080p) [Geo-blocked]
