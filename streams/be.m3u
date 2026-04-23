@@ -50,7 +50,7 @@ https://muzkurd.com/sterktv/sterk/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleMB.be@SD",TeleMB (1080p)
 https://tvlocales-live.freecaster.com/telemb/95d2f6ca-817a-48c0-aba5-6323a621c2d6/95d2f6ca-817a-48c0-aba5-6323a621c2d6.isml/master.m3u8
 #EXTINF:-1 tvg-id="Tipik.be@SD",Tipik
-http://103.184.64.85:12000/stream/allchannel/rtbftipik/master.m3u8
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/425fb6b1/8a250afc.isml/.m3u8
 #EXTINF:-1 tvg-id="CanalZ.be@SD",Trends Z (1080p)
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
 #EXTINF:-1 tvg-id="KanaalZ.be@SD",Trends Z (1080p)
